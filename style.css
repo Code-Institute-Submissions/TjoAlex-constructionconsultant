@@ -8,11 +8,11 @@ header,
 
 /*----------------Navbar----------------*/
 .navbar {
-  color: #9CAED7;
+  color: #DBA748;
   font-family: 'Oswald', sans-serif;
 }
 .navbar a:hover {
-  background: #B1C1E1;
+  background: #DBA748;
   color: #fff;
 }
 
