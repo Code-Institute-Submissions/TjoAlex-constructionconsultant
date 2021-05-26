@@ -39,3 +39,11 @@ header,
   height: 100%;
   color: #191E20;
 }
+
+/*----Contact card--------*/
+
+.card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
