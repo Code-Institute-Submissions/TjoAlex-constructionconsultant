@@ -1,0 +1,41 @@
+
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
+/*----------------Navbar----------------*/
+.navbar {
+  color: #9CAED7;
+  font-family: 'Oswald', sans-serif;
+}
+.navbar a:hover {
+  background: #B1C1E1;
+  color: #fff;
+}
+
+
+/*--------------Header----------------------*/
+
+
+.banner{
+    height: 100vh;
+    min-height: 100vh;
+    background-image: url(images/bygg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+/*-----Navbar change on scroll------*/
+
+
+/*-------footer---------*/
+.footer-top {
+  height: 100%;
+  color: #191E20;
+}
