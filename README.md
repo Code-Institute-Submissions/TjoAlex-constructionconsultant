@@ -130,3 +130,6 @@ Go over the different parts of my project ex who is it for etc
   * pic woman face https://unsplash.com/photos/IF9TK5Uy-KI taken by Jake Nackos
   * pic construct https://unsplash.com/photos/wFso0QMuWAc by Aron Fjell
   * pic contact https://unsplash.com/photos/xG8IQMqMITM by Aaron Burden
+
+  # Acknowledgements
+  
