@@ -65,3 +65,15 @@ Go over the different parts of my project ex who is it for etc
  Navigation bar 
 
 
+# Credits
+
+* Fontawesome for their use of icons. (link to font awesome here)
+* Bootstrap 4 to create a responsive website, navbar, use of libraries, documentation. (link bootstrap ) 
+* README template from code institute and github (link github) (link code institute)
+* Pictures used as header and content from Unsplash (list below creddit for all pictures).
+  * A man face picture taken by Juice Koleti’c https://unsplash.com/photos/7YVZYZeITc8
+  * pic about page https://unsplash.com/photos/ysfrLKs9cn0 taken by Kiefer Likens
+  * pic woman face https://unsplash.com/photos/IF9TK5Uy-KI taken by Jake Nackos
+  * pic construct https://unsplash.com/photos/wFso0QMuWAc by Aron Fjell
+  * pic contact https://unsplash.com/photos/xG8IQMqMITM by Aaron Burden
+* Google fonts to have custom font specially choosen for this site (link google font)
