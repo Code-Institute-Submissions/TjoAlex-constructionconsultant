@@ -12,7 +12,27 @@ Construction Consultant will also be usefull for those looking for someone with 
 # Navigation 
  * UX 
  * UX-Stories
+ * First Time Visitor Goals
+ * Returning Visitor Goals
+ * Frequent User Goals
  * Strategy
+ * User needs 
+ * Features
+ * Existing features
+ * Future Features 
+ * Technologies 
+ * Languages
+ * Libraries and online resources 
+ * Testing
+ * Testing plan 
+ * Implementation 
+ * Results
+ * Bugs 
+ * Deployment
+ * Credits
+ * Content 
+ * Media 
+ *
 
  # UX 
  The end user of this site/project can be whoever interested in knowing more about the process of building buildings in Sweden and might find it useful to have someone that has the knowledge to follow along in such a project, making sure everything works well and doesn’t go wrong. The end user of this project/site will want to find clear description of the item listed:
@@ -62,18 +82,51 @@ The end goal of the project is to give the user knowledge and excitement over bu
 Go over the different parts of my project ex who is it for etc
 
 ## Existing features
- Navigation bar 
+* Navigation bar 
 
+## Future Features 
+* In future the map will be linked to a real existing office. 
+
+# Technologies 
+
+## Languages
+* HTML5
+* CSS 3 
+
+## Libraries and online resources 
+* Bootstrap 4 (add link)
+
+# Testing
+
+## Testing plan 
+?? 
+
+## Implementation 
+??
+
+## Results 
+??
+
+## Bugs 
+?? 
+
+# Deployment
+??
 
 # Credits
 
 * Fontawesome for their use of icons. (link to font awesome here)
 * Bootstrap 4 to create a responsive website, navbar, use of libraries, documentation. (link bootstrap ) 
 * README template from code institute and github (link github) (link code institute)
+* Google fonts to have custom font specially choosen for this site (link google font)
+
+# Content 
+??
+
+# Media 
 * Pictures used as header and content from Unsplash (list below creddit for all pictures).
-  * A man face picture taken by Juice Koleti’c https://unsplash.com/photos/7YVZYZeITc8
+  * A man face picture https://unsplash.com/photos/7YVZYZeITc8 taken by Juice Koleti’c
   * pic about page https://unsplash.com/photos/ysfrLKs9cn0 taken by Kiefer Likens
   * pic woman face https://unsplash.com/photos/IF9TK5Uy-KI taken by Jake Nackos
   * pic construct https://unsplash.com/photos/wFso0QMuWAc by Aron Fjell
   * pic contact https://unsplash.com/photos/xG8IQMqMITM by Aaron Burden
-* Google fonts to have custom font specially choosen for this site (link google font)
