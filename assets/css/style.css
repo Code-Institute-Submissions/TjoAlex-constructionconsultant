@@ -34,10 +34,10 @@ html, body, head
 /*--------------Header----------------------*/
 
 
-.banner{
+.banner .header-img{
     height: 100vh;
     min-height: 100vh;
-    background-image: url(assets/images/construction.jpg);
+    background-image: url(images/construction.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -47,7 +47,7 @@ html, body, head
 .banner-about {
   height: 100vh;
     min-height: 100vh;
-    background-image: url(assets/images/about.jpg);
+    background-image: url(./constructionconsultant/images/about.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
