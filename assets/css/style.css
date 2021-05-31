@@ -63,6 +63,12 @@ html, body, head
     background-repeat: no-repeat;
     font-family: 'Oswald', sans-serif;
 }
+/*-----Column section------*/
+.padding {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
 /*-----Navbar change on scroll------*/
 
 
