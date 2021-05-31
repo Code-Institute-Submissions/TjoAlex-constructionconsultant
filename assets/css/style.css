@@ -144,4 +144,26 @@ header {
   padding-bottom: 400px;
 }
 
+/*----Send us a message card----*/
+.head {
+  background-color: #DBA748;
+  border-radius: 5px;
+  margin-top: -40px;
+}
+
+.btn1 {
+  background: #DBA748;
+  color: #fff;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  height: 40px;
+  width: 145px;
+}
+
+.btn1:hover {
+  color: #fff;
+  background-color: #2E8097;
+}
+
 
