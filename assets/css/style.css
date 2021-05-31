@@ -42,39 +42,15 @@ header {
   background-position: center center;
 }
 
-/*.banner {
-  height: 100vh;
-  min-height: 100vh;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  font-family: 'Oswald', sans-serif;
-  
-}
-
-.banner-about {
-  height: 100vh;
-    min-height: 100vh;
-    background-image: url(./constructionconsultant/images/about.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    font-family: 'Oswald', sans-serif;
-}
-
-.banner-contact {
-  height: 100vh;
-    min-height: 100vh;
-    background-image: url(assets/images/contact.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    font-family: 'Oswald', sans-serif;
-}*/
 /*-----Column section------*/
 .padding {
   padding-top: 2em;
   padding-bottom: 2em;
+}
+
+.padding-contact {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 /*-----Navbar change on scroll------*/
