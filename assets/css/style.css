@@ -37,6 +37,10 @@ article {
   font-size: 1.1em !important;
 }
 
+.nav-link a:hover{
+  border-bottom: 1px solid #7777; /*doesnt work?*/
+}
+
 
 /*--------------Header----------------------*/
 header {
@@ -171,6 +175,13 @@ header {
 .btn1:hover {
   color: #fff;
   background-color: #2E8097;
+}
+
+/*----Icon contact section----*/
+
+.padding-icon {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 
