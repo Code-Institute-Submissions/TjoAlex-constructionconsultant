@@ -1,4 +1,12 @@
 
+html, body, head
+{
+ height: 100%;
+ width: 100%;
+ font-family: 'Oswald', sans-serif;
+ color: #222;
+}
+
 body {
   margin: 0;
 }
@@ -7,12 +15,11 @@ html {
   box-sizing: border-box;
 }
 
-html, body, head
- {
-  height: 100%;
-  width: 100%;
-  font-family: 'Oswald', sans-serif;
-  color: #222;
+article {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: 100%;
 }
 
 /*----------------Navbar----------------*/
