@@ -11,20 +11,25 @@ Construction Consultant will also be usefull for those looking for someone with 
 
 # Navigation 
  * UX 
- * UX-Stories
- * First Time Visitor Goals
- * Returning Visitor Goals
- * Frequent User Goals
+  * UX-Stories
+  * First Time Visitor Goals
+  * Returning Visitor Goals
+  * Frequent User Goals
  * Strategy
- * User needs 
+  * User needs 
+  * Business vision
+ * Scope 
+ * Structure 
+ * wireframes 
+  * Changes to wireframes
  * Features
- * Existing features
- * Future Features 
+  * Existing features
+  * Future Features 
  * Technologies 
- * Languages
- * Libraries and online resources 
+  * Languages
+  * Libraries and online resources 
  * Testing
- * Testing plan 
+  * Testing plan 
  * Implementation 
  * Results
  * Bugs 
@@ -75,8 +80,6 @@ The end goal of the project is to give the user knowledge and excitement over bu
 * As a Frequent User, I want to see if there is any new information that can be usefull for a building project
 * As a Frequent User, I want to find the contact information for the company. 
 
- ![picture](wireframe_consultant_company.png)
-
 # Strategy
 ### User needs 
 For me as a user the site must be accessible on mobile, tablet and all browsers. The text, information and layout sould be clear and easy to understand. The site should have simple navigation that makes me as a user comfortable directly when turning to the page by not struggeling to find the different pages of the site. As a user I want the site to make it easy for me to send a message to the company or find other contact information as well ass overall knowledge in what the company do. 
@@ -98,27 +101,27 @@ When it came to my wireframe for the site there wasn't much to change yet offcou
 
 # Features
 This part will include some of the features that this project has: 
-Go over the different parts of my project ex who is it for etc
+
 * Home page known as landing page, made exciting by the use of a big image that draws the attention of the eye. 
 * About page 
 * Contact us section gives the user possibility to easily find contact information as well as sending a message to the company directly from the site. 
 
-## Existing features
+### Existing features
 * Menu that on mobile or tablet changes to hamburger icon making it responsive.
 * User  are able to fill form to send a message (This is made so that when you type a message and press send the computer will want to send the message via another platform, this well known for me as a developer and are high on the list for future improvements). 
 * Footer connect icons are clickable and will on new tab open for example facebook 
 * Footer also contains menu/navigation that will open the different pages of the site for the user.  
 
-## Future Features 
+### Future Features 
 * In future the map will be linked to a real existing office. 
 
 # Technologies 
 
-## Languages
+### Languages
 * HTML5
 * CSS 3 
 
-## Libraries and online resources 
+### Libraries and online resources 
 * Bootstrap V.4.6 used to create a responsive website, navbar, use of libraries and documentation. <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/">Bootstrap</a>
 * Fontawesome for their use of icons. (link to font awesome here)
 * README template from code institute and github (link github) (link code institute)
@@ -126,7 +129,7 @@ Go over the different parts of my project ex who is it for etc
 
 # Testing
 
-## Testing plan 
+### Testing plan 
 ?? 
 
 ## Implementation 
@@ -143,6 +146,7 @@ Go over the different parts of my project ex who is it for etc
 
 # Credits
 ??
+
 # Content 
 ??
 
