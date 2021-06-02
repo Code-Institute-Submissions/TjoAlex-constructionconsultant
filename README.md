@@ -129,19 +129,27 @@ This project was built using the following technologies
 * Google fonts to have custom font specially choosen for this site known as Oswald. <a href="https://bootstrapbay.com/blog/google-web-fonts/#:~:text=Open%20sans%20is%20a%20sans%20serif%20typeface%20designed,popularity%20over%20the%20excellent%20legibility%20of%20the%20typeface.">Google fonts</a> 
 
 # Testing
-As a beginner I have a lot to learn when it comes to testing therefore maybe my method is not the most effective but I share this to be able to further develop and learn from everything that coding means. Starting off by mentioning that thanks to my dad I have a lot of knowledge within the building construction field and could therefore turn to him and some of his colleagues by asking what they would expect on a site dedicated for their type of service. This also meant that when I released a live version  of the site I made sure to share it with my dad, his colleagues and everyone else in my family to make sure it was working and looked good on their mobile devices, mostly then focusing on the layout and that the site was responsive. Yet I designed the website mobile first and to do so I did extensive testing by using Chrome DevTools.  
 
 ### Testing plan 
-?? 
+As a beginner I have a lot to learn when it comes to testing therefore maybe my method is not the most effective but I share this to be able to further develop and learn from everything that coding means. Starting off by mentioning that thanks to my dad I have a lot of knowledge within the building construction field and could therefore turn to him and some of his colleagues by asking what they would expect on a site dedicated for their type of service. This also meant that when I released a live version  of the site I made sure to share it with my dad, his colleagues and everyone else in my family to make sure it was working and looked good on their mobile devices, mostly then focusing on the layout and that the site was responsive. My main goal with the layout was to make large screens have a horizontal display and on mobile devices vertical display, while on tablets or for exampel a ipad something inbetween those two. I designed the website mobile first and to do so I did extensive testing by using Chrome DevTools trough out my working process. This meant that everytime I implemneted a column with text or a image i went to the DevTools and changed settings so that I could see how it would look on for example Iphone X (with screen size 375 x 812) Iphone 6/7/8 plus (screen size 414 x 736), ipad (screen size 768 x 1024) and laptop (screen size 1440 x 900).
 
-## Implementation 
-??
 
-## Results 
+### Implementation 
+Explain how you used devtools 
+You used lighthouse 
+W3C validator to find more mistakes
+
+Testing was performed as follows: 
+1. debugg
+2. debugg 
+3. debugg
+
+### Results 
 ??
 
 ## Bugs 
-?? 
+
+* Boostrap hamburger icon couldn't open on tablet's and mobile devices
 
 # Deployment
 ??
