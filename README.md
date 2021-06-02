@@ -37,19 +37,21 @@ Construction Consultant will also be usefull for those looking for someone with 
  # UX 
  The end user of this site/project can be whoever interested in knowing more about the process of building buildings in Sweden and might find it useful to have someone that has the knowledge to follow along in such a project, making sure everything works well and doesn’t go wrong. The end user of this project/site will want to find clear description of the item listed:
 
-Requirements necessary for starting a building project
-Presentation of the company 
-Explenation of how the company works
-Explenation of the company vision and goals
-Knowledge in building consulting and what it means
-Knowledge in what type of guidance the company offer
-Places in the country the service and rules apply for 
-A explenation of how the final result of a building project should look 
-A easy understanding of how one can get in contact with the company
+* Presentation of the company 
+* Explenation of how the company works
+* Explenation of the company vision 
+* Knowledge in building consulting and what it means
+* Knowledge in what type of guidance the company offer
+* A easy understanding of how one can get in contact with the company
 
 The end goal of the project is to give the user knowledge and excitement over buildings and their process as well as how the company itself provides a secure way for their potential customers projects to end with a good result.  
 
  ## Ux Stories
+* As a user I want to learn more about what a consulting service provides.
+* As a user I want to get inspired to start a constrcution project.
+* As a user I want to see who is working with the company. 
+* As a user I want a clear description of every service the company provides. 
+* As a user i would like to clearly and easy find contact information. 
 
  ### First Time Visitor Goals
 
@@ -77,8 +79,25 @@ The end goal of the project is to give the user knowledge and excitement over bu
 
 # Strategy
 
-### User needs 
-## Features
+## User needs 
+For me as a user the site must be accessible on mobile, tablet and all browsers. The text, information and layout sould be clear and easy to understand. The site should have simple navigation that makes me as a user comfortable directly when turning to the page by not struggeling to find the different pages of the site. As a user I want the site to make it easy for me to send a message to the company or find other contact information as well ass overall knowledge in what the company do. 
+
+## Business vision
+The main vision and purpous behind the site is to inform more people about the service the company provide and make easy access to contact infromation as well as inspiring people to actually start a building project. The company is looking for more customers and to spread the word that they exist. This done on the site by making sure for example the text on the site isn't too long, thus that might lead to confusion and people loosing interest. secondly the site makes sure to follow a structure and color scheme, more custom for the company itself so that the user also easily can recognize the style of the company and therefore hopefully won't manage to forgett the company too quickly.
+
+# Scope
+I want my users as easily as possible to get knowledge and understanding about a construction consultant more so the company's own construction consultant and find interest and inspiration to start their own building project by imagine the company as their guide in that process and feel safe with that.
+
+# Structure
+This project is a multi page website. This to provide large amount of information by dividing that into sections and pages, making sure the information won't be too overwhelming, messy and hard to understand as well as it makes it a lot easier to find the information one might be looking for. That because the pages won't need to be too long and you can quickly find what you was looking for by using the navigation bar and following the headings that helsp the user find even more easily on the site. As a user you will find 3 different pages one for introduction and first presentation known as home page, one for the companys services and vision and one for the contact infromation. As a first experience the user will find a big header with the company name clearly dislpayed, By either scrolling down or pressing the menu options on top right of the site, the user can de find mor einformation. By scrolling down in the first visit information about almost everything in the company will be provided, this in a short description guiding the user to either visit the about and contact page to know more. The pages structure are designed to keep pretty similar design, not making them too different from each other baring in minde that this then provide intuitve learning for the user.
+
+# Wireframes 
+* Original wireframes can be found here 
+
+## Changes to wireframes 
+After discussion with my mentor ... we didn't doo much changes 
+
+# Features
 Go over the different parts of my project ex who is it for etc
 
 ## Existing features
