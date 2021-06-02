@@ -21,13 +21,13 @@ Construction Consultant will also be usefull for those looking for someone with 
  * Scope 
  * Structure 
  * wireframes 
-  * Changes to wireframes
+    * Changes to wireframes
  * Features
-  * Existing features
-  * Future Features 
+    * Existing features
+    * Future Features 
  * Technologies 
-  * Languages
-  * Libraries and online resources 
+    * Languages
+    * Libraries and online resources 
  * Testing
   * Testing plan 
  * Implementation 
@@ -116,6 +116,7 @@ This part will include some of the features that this project has:
 * In future the map will be linked to a real existing office. 
 
 # Technologies 
+This project was built using the following technologies
 
 ### Languages
 * HTML5
@@ -123,9 +124,9 @@ This part will include some of the features that this project has:
 
 ### Libraries and online resources 
 * Bootstrap V.4.6 used to create a responsive website, navbar, use of libraries and documentation. <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/">Bootstrap</a>
-* Fontawesome for their use of icons. (link to font awesome here)
-* README template from code institute and github (link github) (link code institute)
-* Google fonts to have custom font specially choosen for this site (link google font)
+* Fontawesome for their use of icons. <a href="https://fontawesome.com/v5.15/icons/envelope?style=solid">Fontawesome</a>
+* README template from code institute and github. <a href="#">Code Institute</a> <a href="https://guides.github.com/features/mastering-markdown/">Github</a> 
+* Google fonts to have custom font specially choosen for this site known as Oswald. <a href="https://bootstrapbay.com/blog/google-web-fonts/#:~:text=Open%20sans%20is%20a%20sans%20serif%20typeface%20designed,popularity%20over%20the%20excellent%20legibility%20of%20the%20typeface.">Google fonts</a> 
 
 # Testing
 
