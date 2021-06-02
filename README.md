@@ -155,6 +155,8 @@ Testing was performed as follows:
 ??
 
 # Credits
+As far as I have heard, a good developer needs to google and search a lot for answers they don't themself know the answer of. I Feel much grateful for having platforms that makes it so easy to find so much information and that's why on my list bellow there is a lot to cover, all because I want to make sure everyone that posted something helping me go futher along in my process of building this site get credit for that. This so that articles, videos and sometimes just comments on a chat redgarding this subject continues to grow and can keep helping and learning newbies as me valuable knowledge. 
+
 * Bootstrap for using their grid system <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/">Bootstrap</a>
 * Fontawesome for borrowing their icons <a href="https://fontawesome.com/v5.15/icons/envelope?style=solid">Fontawesome</a>
 * Unsplash for borrowing some of their images <a href="https://unsplash.com/">Unsplash</a>
@@ -163,12 +165,13 @@ Testing was performed as follows:
 * Fonts google for the use of Oswald <a href="https://bootstrapbay.com/blog/google-web-fonts/#:~:text=Open%20sans%20is%20a%20sans%20serif%20typeface%20designed,popularity%20over%20the%20excellent%20legibility%20of%20the%20typeface.">Fonts google</a> 
 * For image banner on top of the pages used helping code from youtube video to understand how I could make a image big and stay on top <a href="https://www.youtube.com/watch?v=HAUB4CRfOr0&list=WL&index=86">Online Tutorials</a> 
 * For navigationbar used used help from code out of youtube so that I hould have a navbar that stayed on top of the page also used to get knowledge in how to create a three column section<a href="https://www.youtube.com/watch?v=9cKsq14Kfsw">Drew Ryan</a> 
-* Article that helped me design my footer <a href="https://blog.eduonix.com/video-tutorials/web-development-tutorials/build-responsive-website-footer-using-html-bootstrap-4/">Eduonix</a> 
+* Article that helped me find design for my footer <a href="https://blog.eduonix.com/video-tutorials/web-development-tutorials/build-responsive-website-footer-using-html-bootstrap-4/">Eduonix</a> 
+
 # Content 
 ??
 
 # Media 
-* Pictures used as header and content from Unsplash (list below creddit for all pictures).
+* Pictures used as header and content from Unsplash, I do not own these images and they are only used for educational purpous.  
   * A man face picture https://unsplash.com/photos/7YVZYZeITc8 taken by Juice Koleti’c
   * pic about page https://unsplash.com/photos/ysfrLKs9cn0 taken by Kiefer Likens
   * pic woman face https://unsplash.com/photos/IF9TK5Uy-KI taken by Jake Nackos
