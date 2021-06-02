@@ -125,10 +125,11 @@ This project was built using the following technologies
 ### Libraries and online resources 
 * Bootstrap V.4.6 used to create a responsive website, navbar, use of libraries and documentation. <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/">Bootstrap</a>
 * Fontawesome for their use of icons. <a href="https://fontawesome.com/v5.15/icons/envelope?style=solid">Fontawesome</a>
-* README template from code institute and github. <a href="#">Code Institute</a> <a href="https://guides.github.com/features/mastering-markdown/">Github</a> 
+* README template from code institute and github. <a href="#">Code Institute</a> & <a href="https://guides.github.com/features/mastering-markdown/">Github</a> 
 * Google fonts to have custom font specially choosen for this site known as Oswald. <a href="https://bootstrapbay.com/blog/google-web-fonts/#:~:text=Open%20sans%20is%20a%20sans%20serif%20typeface%20designed,popularity%20over%20the%20excellent%20legibility%20of%20the%20typeface.">Google fonts</a> 
 
 # Testing
+As a beginner I have a lot to learn when it comes to testing therefore maybe my method is not the most effective but I share this to be able to further develop and learn from everything that coding means. Starting off by mentioning that thanks to my dad I have a lot of knowledge within the building construction field and could therefore turn to him and some of his colleagues by asking what they would expect on a site dedicated for their type of service. This also meant that when I released a live version  of the site I made sure to share it with my dad, his colleagues and everyone else in my family to make sure it was working and looked good on their mobile devices, mostly then focusing on the layout and that the site was responsive. Yet I designed the website mobile first and to do so I did extensive testing by using Chrome DevTools.  
 
 ### Testing plan 
 ?? 
