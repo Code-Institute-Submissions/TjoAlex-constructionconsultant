@@ -50,5 +50,5 @@ This website is designed to inform the user, and give them valuable understandin
   * It exists on all three pages, acts responsive by turning to a hamburger icon when using the site on smaller screens making it more easy so read the menu. 
   * Features a logo for the company, and three sections with the name Home, About, Contact that when taking the mouse over will have a small orange line under the text that helps visually see where the user is and can go on the site. 
 
-  ![Image navigation bar] url('images/navbar.jpg')
+  ![navbar](images/navbar.jpg)
   
