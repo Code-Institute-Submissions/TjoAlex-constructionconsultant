@@ -137,3 +137,25 @@ This website is designed to inform the user, and give them valuable understandin
 
 * Footer 
   * Here also the same as with the home page.  
+
+* The Contact page
+  
+  * Includes navigation bar as on the home page.
+  * Includes Contact page image with text in center named contact. 
+  * Includes a introduction section explaining why one should contact the company. 
+  * Includes map as on the about page, containing the same address.
+  * Includes footer as on the home and about page.
+
+* Three column section 
+  
+  * A section that has three different icons and headings for mobile, mail and address. This to make it simple and easy for the user to find contact information.
+  * Under each icon and heading is the information provided. Also clickable so that if the user want to for example take a call directly the number is already linked.
+
+  ![contact-icon](images/contact-icon.jpg) 
+
+* Send Us a Message section 
+ 
+ * This section provides a form that the visitor can fill in to be able to from the site send a message. 
+ * You can type in your name and email address and then your message. To then press the send button. At the moment the only thing that happens when you press send is that a new window will open so one manually can send a email and therefore that is one good thing to fix for the future. 
+
+ ![message](images/message.jpg) 
