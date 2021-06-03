@@ -109,14 +109,14 @@ This website is designed to inform the user, and give them valuable understandin
   * A two column section with rounded images that under them has a smaller heading and some text that show and give a short presentation of the employees. 
   * Valuable for the user so that they get to know who they can come in contact with and doesn't have to feel that the person is too much of a stranger to them when first getting in touch. 
 
-  ![our team](images/our-team.jpg) 
+  ![our-team](images/our-team.jpg) 
 
 * Our vision section
 
   * Two column section, to the left a heading and text, to the right a new image showing something inspiring for the user.
   * Again a section that explains the company's vision. It may seem annoying with a bit of the same information, but the basic text and image is not the same and this instead shows that the company really wants the visitor to take part in their vision so that it can constantly develop with and for its external customers. 
 
-  ![vision about](images/vision-about.jpg) 
+  ![vision-about](images/vision-about.jpg) 
 
 * What We Offer section 
 
