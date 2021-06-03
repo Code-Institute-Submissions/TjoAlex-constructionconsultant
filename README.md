@@ -218,7 +218,7 @@ This website is designed to inform the user, and give them valuable understandin
  * This section provides a form that the visitor can fill in to be able to from the site send a message. 
  * You can type in your name and email address and then your message. To then press the send button. At the moment the only thing that happens when you press send is that a new window will open so one manually can send a email and therefore that is one good thing to fix for the future. 
 
- ![message](images/message.jpg) 
+ ![message](images/site/message.jpg) 
 
  ### features Left to Implement 
 
@@ -244,4 +244,21 @@ This project was built using the following technologies
 # Testing
 
 ### Testing plan 
-As a beginner I have a lot to learn when it comes to testing therefore maybe my method is not the most effective but I share this to be able to further develop and learn from everything that coding means. Starting off by mentioning that thanks to my dad I have a lot of knowledge within the building construction field and could therefore turn to him and some of his colleagues by asking what they would expect on a site dedicated for their type of service. This also meant that when I released a live version  of the site I made sure to share it with my dad, his colleagues and everyone else in my family to make sure it was working and looked good on their mobile devices, mostly then focusing on the layout and that the site was responsive. My main goal with the layout was to make large screens have a horizontal display and on mobile devices vertical display, while on tablets or for exampel a ipad something inbetween those two. I designed the website mobile first and to do so I did extensive testing by using Chrome DevTools trough out my working process. This meant that everytime I implemneted a column with text or a image i went to the DevTools and changed settings so that I could see how it would look on for example Iphone X (with screen size 375 x 812) Iphone 6/7/8 plus (screen size 414 x 736), ipad (screen size 768 x 1024) and laptop (screen size 1440 x 900).
+As a beginner I have a lot to learn when it comes to testing therefore maybe my method is not the most effective but I share this to be able to further develop and learn from everything that coding means and to ensure that the testing plan has been done several times and with a critical eye so that the site doesn't have any issues. 
+
+* Main Goal
+My main goal with the layout was to make large screens have a horizontal display and on mobile devices vertical display, while on tablets or for exampel a ipad something inbetween those two. I designed the website mobile first and to do so I did extensive testing by using Chrome DevTools trough out my working process. This meant that everytime I implemneted a column with text or a image I went to the DevTools and changed settings so that I could see how it would look on for example Iphone X (with screen size 375 x 812) Iphone 6/7/8 plus (screen size 414 x 736), ipad (screen size 768 x 1024) and laptop (screen size 1440 x 900).
+
+* Visual testing 
+There might not be something named "Visual testing" yet what I mean by that is that throughout this process I have made sure to make use out of the people around me. Thanks to my dad I have a lot of knowledge within the building construction field and could therefore turn to him and some of his colleagues by asking what they would expect on a site dedicated for their type of service. This also meant that when I released a live version  of the site I made sure to share it with my dad, his colleagues and everyone else in my family to make sure it was working and looked good on their mobile devices, mostly then focusing on the layout and that the site was responsive.
+
+* Validator Testing 
+* HTML
+  * Some errors were returned due to some typo, yet after finding them by going trough my code no errors were then returned when passing trough the official W3C validator (add link)
+* CSS
+  * No errors were found after passing through the official Jigsaw validator (add link)
+
+### Unfixed Bugs
+Mention not fixed bugs and why not they where fixed, you have two alex contact card and icons on footer. 
+
+
