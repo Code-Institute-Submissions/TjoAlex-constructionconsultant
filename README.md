@@ -112,21 +112,21 @@ This website is designed to inform the user, and give them valuable understandin
   * Features a logo for the company, and three sections with the name Home, About, Contact that when taking the mouse over will have a small orange line under the text that helps visually see where the user is and can go on the site. 
   * The Navigation bar will remain for a while when the user scroll down the page to then stay on top of the page when the user is under the header image. Wisit the site yourself and you will understand what I mean. (Note, this will be the same for all the different pages on the site.)
 
-  ![navbar](images/navbar.jpg)
+  ![navbar](images/site/navbar.jpg)
 
 * The Home page image
 
   * Under the navigation bar the user will find a big interesting image as the header, as well as a big heading telling the name of the company. This to quickly tell the user where they are and to let them feel more interested in getting introduced to more information and scrooll even futher down on the page. 
   * This will remain briefly the same throughout all the pages to also make it easy for the user to understand on which page they are.
 
-  ![header](images/header.jpg)  
+  ![header](images/site/header.jpg)  
 
 * Introduction section
   
   * Here the user will have a short and fun description on what the company do and how the user can find out more about them. 
   * The text prompts the user to visit the different pages on the site and lastly leads to a word that is linked to the about page that can explain even further what the company does.
 
-  ![intro](images/intro.jpg)  
+  ![intro](images/site/intro.jpg)  
 
 * Our Service section
 
@@ -134,27 +134,27 @@ This website is designed to inform the user, and give them valuable understandin
   * This makes the user see the value of the company  and their services, as well as what use they might have of them in case they want to start their own building project. 
   * It features three columns that has a heading and icon beside the heading to make it easy for the user to first see the difference of the services, especially when they are moving forvard to the about page.   
  
-  ![service](images/service.jpg) 
+  ![service](images/site/service.jpg) 
 
 * Our Vision section 
 
   * Here the user will be provided with a text explaining the vision the company have and what they strive towards to. Something to give the visitor a understanding of how they work, why they work they way they do and that the company itself want the user to be a part of thath knowledge.
   * It is created so that the user can feel more comfortable with the company, and that why the image to the right of the text is there as well. Representing how the company is there for the ones who want to build for exampel a hous and that the goal is to help them calmly begin with that. 
   
-  ![vision](images/vision.jpg) 
+  ![vision](images/site/vision.jpg) 
 
 * contact section
 
   * The main goal of the website is to let the company get more customers and to give potential customers to easily get in touch with the company. Therefore, a contact card is placed here with a picture of one of the employees, name, numer, email adress and a button leading to the contact page where the visitor can send a message as well. 
 
-  ![contact card](images/contact-card.jpg) 
+  ![contact card](images/site/contact-card.jpg) 
 
 * The Footer 
 
   * The footer section includes a short description of the company, icons with social media links that open on a new screen where one can find the company and get to know them even further and a extra menu to all the different pages existing on the site. 
   * The footer is valuable for the user to mostly find the company on social media as well as not needing to scroll all the way up to the top of the page to find navigation. This to make sure that the user never get's lost on the site. (Note, this remains the same for all the different pages on the site.)
 
-  ![footer](images/footer.jpg) 
+  ![footer](images/site/footer.jpg) 
 
 * The About page image 
   
@@ -169,28 +169,28 @@ This website is designed to inform the user, and give them valuable understandin
   * A two column section with rounded images that under them has a smaller heading and some text that show and give a short presentation of the employees. 
   * Valuable for the user so that they get to know who they can come in contact with and doesn't have to feel that the person is too much of a stranger to them when first getting in touch. 
 
-  ![our-team](images/our-team.jpg) 
+  ![our-team](images/site/our-team.jpg) 
 
 * Our vision section
 
   * Two column section, to the left a heading and text, to the right a new image showing something inspiring for the user.
   * Again a section that explains the company's vision. It may seem annoying with a bit of the same information, but the basic text and image is not the same and this instead shows that the company really wants the visitor to take part in their vision so that it can constantly develop with and for its external customers. 
 
-  ![vision-about](images/vision-about.jpg) 
+  ![vision-about](images/site/vision-about.jpg) 
 
 * What We Offer section 
 
   * This section is looking a lot like the three column section on the homepage, yet the difference is that now there is more text explaining further about their services and what it actually is.
   * Valuable for the user so that they can feel comfortable with getting good knowledge in what the company does and how that in return can help the user of the page. 
 
-  ![offer](images/offer.jpg) 
+  ![offer](images/site/offer.jpg) 
 
 * Find Us section
   
   * This section presents a large map for the user that shows the exact location of the company.
   * Note that there is no place that the company has so for now I have just put my hometown there, just to give something that looks presentable. This will also be the same for the contact page.  
 
-  ![find](images/find.jpg) 
+  ![find](images/site/find.jpg) 
 
 * Contact section 
   * Same outlook and value as within the home page. 
@@ -211,7 +211,7 @@ This website is designed to inform the user, and give them valuable understandin
   * A section that has three different icons and headings for mobile, mail and address. This to make it simple and easy for the user to find contact information.
   * Under each icon and heading is the information provided. Also clickable so that if the user want to for example take a call directly the number is already linked.
 
-  ![contact-icon](images/contact-icon.jpg) 
+  ![contact-icon](images/site/contact-icon.jpg) 
 
 * Send Us a Message section 
  
