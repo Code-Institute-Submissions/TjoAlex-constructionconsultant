@@ -246,11 +246,13 @@ This project was built using the following technologies
 ### Testing plan 
 As a beginner I have a lot to learn when it comes to testing therefore maybe my method is not the most effective but I share this to be able to further develop and learn from everything that coding means and to ensure that the testing plan has been done several times and with a critical eye so that the site doesn't have any issues. 
 
-* Main Goal
+* Chrome Devtools 
 My main goal with the layout was to make large screens have a horizontal display and on mobile devices vertical display, while on tablets or for exampel a ipad something inbetween those two. I designed the website mobile first and to do so I did extensive testing by using Chrome DevTools trough out my working process. This meant that everytime I implemneted a column with text or a image I went to the DevTools and changed settings so that I could see how it would look on for example Iphone X (with screen size 375 x 812) Iphone 6/7/8 plus (screen size 414 x 736), ipad (screen size 768 x 1024) and laptop (screen size 1440 x 900).
 
 * Visual testing 
-There might not be something named "Visual testing" yet what I mean by that is that throughout this process I have made sure to make use out of the people around me. Thanks to my dad I have a lot of knowledge within the building construction field and could therefore turn to him and some of his colleagues by asking what they would expect on a site dedicated for their type of service. This also meant that when I released a live version  of the site I made sure to share it with my dad, his colleagues and everyone else in my family to make sure it was working and looked good on their mobile devices, mostly then focusing on the layout and that the site was responsive.
+There might not be something named "Visual testing" yet what I mean by that is that throughout this process I have made sure to make use out of the people around me. 
+  * Thanks to my dad I have a lot of knowledge within the building construction field and could therefore turn to him and some of his colleagues by asking what they would expect on a site dedicated for their type of service. This also meant that when I released a live version  of the site I made sure to share it with my dad, his colleagues and everyone else in my family to make sure it was working and looked good on their mobile devices, mostly then focusing on the layout and that the site was responsive.
+  * Mentor sessions where a big help when fixing small errors of my code that I couldn't see myself. Antonija saw dirrectly small changes that had to be done and it was trough here guidiance I figured out how to center the round circle images and also fixing my bug with my navbar. 
 
 * Validator Testing 
 * HTML
@@ -258,7 +260,23 @@ There might not be something named "Visual testing" yet what I mean by that is t
 * CSS
   * No errors were found after passing through the official Jigsaw validator (add link)
 
+* Testing was performed as follows: 
+1. Write my code, go to Devtools to see how it looked on different screens. 
+2. Sending live link of the website to people I know to see if it was working on their mobile     devices. 
+3. Letting my mentor review my code and see so that it looked right. 
+4. Ran my HTML code trough the W3C validator making sure there wasn't any errors or warnings. I took my code trough W3C validator first via the live version that already existed and then afterwards via direkt input of my code. 
+5. Ran my CSS trough the Jigsaw validator 
+6. Using Lighthouse to see the performance of the site (knowing that some of my images make the performance less good, read more about that under Unfixed Bugs)
+
+### Bugs
+Tell how you fixed haburger icon/navbar 
+Tell how you fixed header image size after it went super small. 
+
 ### Unfixed Bugs
-Mention not fixed bugs and why not they where fixed, you have two alex contact card and icons on footer. 
+Mention not fixed bugs and why not they where fixed, you have two alex 
+* contact card and 
+* icons on footer as well as maybe footer not staying on the bottom, but I couldn't find that issue. 
+* Mention the size of some images they are a bit big and should be compressed yet I didn't have time enough to fix that and had to set that aside for now. 
+* Cricle images, they are showing very bad and doesn't look sharp, annoying as it is time was my enemy and I couldn't manage to fix that issue. 
 
 
