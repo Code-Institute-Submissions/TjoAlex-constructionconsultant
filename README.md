@@ -135,6 +135,7 @@ As a beginner I have a lot to learn when it comes to testing therefore maybe my 
 
 
 ### Implementation 
+After letting people around me look at the site to confirm that the layout could be a suitable one I began with a more detailed testing process 
 Explain how you used devtools 
 You used lighthouse 
 W3C validator to find more mistakes
@@ -144,6 +145,7 @@ Testing was performed as follows:
 2. debugg 
 3. debugg
 
+I took my code trough W3C validator first via the live version that already existed and then afterwards via direkt input of my code. To begin with there was a few typos (meaning small thinks like " that i had missed) that I found by scrolling in my code to the line that the validator was refering to and then adding what was missing or changing what was spelled wrong. Secondly the validator told me that I had some div tags that nedded to be closed and lastly some alt atributes that I had to incoporate into my image links. All that also solved the same way as with the typos, went to my code, scrolled to the right line and then searched for what wasn't right. 
 ### Results 
 ??
 
