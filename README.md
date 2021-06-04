@@ -1,13 +1,14 @@
 
 
 # Construction Consultant 
-Preview [Construction Consultant] (Link of live web)
 
 Construction Consultant is a site looking for visitors that want to know more about how the process of bulding for exampel a house, storehouse, apartment etc in sweden works. It is made so that the visitor can feel inspired and get good knowledge within it's easy and user friendly design, all to make sure the information neccessary for the user is only just a click away. 
 Construction Consultant will also be usefull for those looking for someone with more knowledge in the building field and that are able to offer services where a person can follow along, give advice, and keep a good eye on the project itself. 
  
  Showcase
- (Show mockup)
+ ![mockup](images/site/mockup.jpg)
+
+ Link of live <a href="https://tjoalex.github.io/constructionconsultant/">website</a>
 
 # Navigation 
  * UX 
