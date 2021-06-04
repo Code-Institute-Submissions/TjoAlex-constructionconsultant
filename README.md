@@ -297,8 +297,11 @@ While adding my images to the header and creating a class for them and then putt
 
 After taking my code through the W3C validator something went wrong with my header images (The big images on top of the page). They then got a lot smaller and didn't respond to my css height. This took me a while to solve but what I did was to go to chrome Devtools and try different codes to fix the header with. It then gave me the consclusion that I had to put the height on the image in the html code instead of in the css to make the images as high as I wanted. 
 
+* Our team section 
+After creating the circle images for the "Our team" section I noticed that they didn't show too well and was pretty hard to see. It wasn't until one person reviewed my code on slack that i goth the good advice to make the image to a square instead of a rectangel (as the original images of the persons was). The pictures then looked good again even when making them round. 
+
 ### Unfixed Bugs
-* One unfixed bug is for the contact card on the home and about page. I have tried to solve the problem with it not being completely in the center yet still hasn't found a solution. And due to lack of time I now had to leav that for now to later try to fix the problem. 
+* One unfixed bug is for the contact card on the home and about page. I have tried to solve the problem with it not being completely in the center of the page yet still hasn't found a solution. And due to lack of time I now had to leav that for now to later try to fix the problem. 
 * Another issue is within my footer, the icons act pretty funny when the screen goes smaller. On large screens the icons is laid two on top and one under those two when I actually want them to lay beside each other. Still that is a problem that I would like to fix yet due to lack of time wasn't possible for now.  
 * After testing my code on Lighthouse some improvements could be done by compressing the images that are a bit too large. Yet as with the bugs above I didn't have time to do that now and had to leave that for now. Worth to mention for the future is that one can easily fix that issue by compressing the images online to make them take less space. 
 
