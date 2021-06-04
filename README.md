@@ -258,9 +258,9 @@ There might not be something named "Visual testing" yet what I mean by that is t
 
 * Validator Testing 
 * HTML
-  * Some errors were returned due to some typo, yet after finding them by going trough my code no errors were then returned when passing trough the official W3C validator (add link)
+  * Some errors were returned due to some typo, yet after finding them by going trough my code no errors were then returned when passing trough the official W3C validator <a href="https://validator.w3.org/">W3C validator</a>
 * CSS
-  * No errors were found after passing through the official Jigsaw validator (add link)
+  * No errors were found after passing through the official <a href="https://jigsaw.w3.org/css-validator/validator">Jigsaw validator</a>
 
 * Testing was performed as follows: 
 1. Write my code, go to Devtools to see how it looked on different screens. 
