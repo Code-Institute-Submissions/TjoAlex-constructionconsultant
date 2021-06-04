@@ -249,6 +249,7 @@ This project was built using the following technologies
 * Google Chrome Devtools: for testing the site and how responsive it was. 
 * Coolors to help finding what type of colors I should use on the site <a href="https://coolors.co/">Coolors</a> 
 * To create wireframe used <a href="https://wireframe.cc/pro/login.php">wireframe.cc</a> 
+* Validators to test my code <a href="https://validator.w3.org/">W3C</a> and <a href="https://jigsaw.w3.org/css-validator/">Jigsaw</a>
 
 
 # Testing
@@ -339,6 +340,7 @@ As far as I have heard, a good developer needs to google and search a lot for an
 * info contact form section helped me find inspiration to how I could make the contact form more interesting by adding a new container that was styled with css <a href="https://www.youtube.com/watch?v=FBAfpj91hps">Pro Web</a> 
 * Without too much knowledge in programming I used help from stackoverlow to fix my contact us code so it could send messages, worth mentioning is that stackowerlfow was also a helping place when i had to fix any error that occured in my code <a href="https://stackoverflow.com/questions/5773174/html-button-to-send-email">Stackoverflow</a>
 * Codepen is the site that helped me write the right code to create a map for the website <a href="https://codepen.io/lowhow/pen/Xmvbdm">Codepen</a>
+* Slack for being a huge providor when it came to reviewing my code and or fix issues I couldn't solve myself and needed help to see a solution for <a href="https://app.slack.com/workspace-signin?redir=%2Fgantry%2Fauth%3Fapp%3Dclient%26lc%3D1622831127%26return_to%3D%252Fclient%26teams%3D"> Slack</a>
 
 # Content 
 All content had been made using a lot of different helpful sites that is listed under the credits section. I haven't copied the code directly just used the different examples as a guide for my own code. Not that under credits you will find more information about what each and every link has provided for me. Extra mention to the youtube channel <a href="https://www.youtube.com/watch?v=9cKsq14Kfsw">Drew Ryan</a> that was to huge help when creating my header and three column section. 
