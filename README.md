@@ -240,6 +240,8 @@ This project was built using the following technologies
 * Fontawesome for their use of icons. <a href="https://fontawesome.com/v5.15/icons/envelope?style=solid">Fontawesome</a>
 * README template from code institute and github. <a href="https://github.com/Code-Institute-Solutions/readme-template">Code Institute</a> & <a href="https://guides.github.com/features/mastering-markdown/">Github</a> 
 * Google fonts to have custom font specially choosen for this site known as Oswald. <a href="https://bootstrapbay.com/blog/google-web-fonts/#:~:text=Open%20sans%20is%20a%20sans%20serif%20typeface%20designed,popularity%20over%20the%20excellent%20legibility%20of%20the%20typeface.">Google fonts</a> 
+* Github for it's use of saving and publishing my code <a href="https://github.com/TjoAlex/constructionconsultant">Github</a> 
+* Gitpod for it's use of being able to create the existing code <a href="https://www.gitpod.io/">Gitpod</a> 
 
 # Testing
 
@@ -278,5 +280,37 @@ Mention not fixed bugs and why not they where fixed, you have two alex
 * icons on footer as well as maybe footer not staying on the bottom, but I couldn't find that issue. 
 * Mention the size of some images they are a bit big and should be compressed yet I didn't have time enough to fix that and had to set that aside for now. 
 * Cricle images, they are showing very bad and doesn't look sharp, annoying as it is time was my enemy and I couldn't manage to fix that issue. 
+
+# Deployment 
+The project was made with the help of Github and Gitpod. This by creating a repository on Github to then make the code on Gitpod development workspace, that in return meant that every time i made changes to my code or added something I had to push my code to Github so that the code then was saved on the local repository. Note that before pushing my code I made sure to add git commit messages in the terminal so that I always can know what I have done in my code. 
+
+To deploy the project I had to:
+* Log in to Github and open the repository that I wanted to deploy
+* Select settings, scroll down to pages section 
+* Under the heading source choose master instead of none
+* Make sure to save and refresh your page to confirm that the deployment is done
+
+If you would prefer to run the project locally you should follow these steps: 
+1. Log in to Github and open the repository that you wanted to deploy
+2. Click on the repository then press the button code
+3. There you will find Clone and Download ZIP
+4. Open in your preferres IDE
+5. Run your local server 
+
+# Credits
+As far as I have heard, a good developer needs to google and search a lot for answers they don't themself know the answer of. I Feel much grateful for having platforms that makes it so easy to find so much information and that's why on my list bellow there is a lot to cover, all because I want to make sure everyone that posted something helping me go futher along in my process of building this site get credit for that. This so that articles, videos and sometimes just comments on a chat redgarding this subject continues to grow and can keep helping newbies as me get valuable knowledge. 
+
+* Bootstrap for using their grid system <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/">Bootstrap</a>
+* Fontawesome for borrowing their icons <a href="https://fontawesome.com/v5.15/icons/envelope?style=solid">Fontawesome</a>
+* Unsplash for borrowing some of their images <a href="https://unsplash.com/">Unsplash</a>
+* The icons and all images except the one named logga.jpg aren't owned by me and is only used here for educational purpouses. 
+* README template from Code Institute and Github making it a lot more easy to understand how a README file should look and how to make it look a certain way <a href="#">Code Institute</a> & <a href="https://guides.github.com/features/mastering-markdown/">Github</a> 
+* Fonts google for the use of Oswald <a href="https://bootstrapbay.com/blog/google-web-fonts/#:~:text=Open%20sans%20is%20a%20sans%20serif%20typeface%20designed,popularity%20over%20the%20excellent%20legibility%20of%20the%20typeface.">Fonts google</a> 
+* For image banner on top of the pages used helping code from youtube video to understand how I could make a image big and stay on top <a href="https://www.youtube.com/watch?v=HAUB4CRfOr0&list=WL&index=86">Online Tutorials</a> 
+* For navigationbar used used help from code out of youtube so that I hould have a navbar that stayed on top of the page also used to get knowledge in how to create a three column section <a href="https://www.youtube.com/watch?v=9cKsq14Kfsw">Drew Ryan</a> 
+* Article that helped me find design for my footer <a href="https://blog.eduonix.com/video-tutorials/web-development-tutorials/build-responsive-website-footer-using-html-bootstrap-4/">Eduonix</a> 
+* info contact form section helped me find inspiration to how I could make the contact form more interesting by adding a new container that was styled with css <a href="https://www.youtube.com/watch?v=FBAfpj91hps">Pro Web</a> 
+* Without too much knowledge in programming I used help from stackoverlow to fix my contact us code so it could send messages, worth mentioning is that stackowerlfow was also a helping place when i had to fix any error that occured in my code <a href="https://stackoverflow.com/questions/5773174/html-button-to-send-email">Stackoverflow</a>
+* Codepen is the site that helped me write the right code to create a map for the website <a href="https://codepen.io/lowhow/pen/Xmvbdm">Codepen</a>
 
 
