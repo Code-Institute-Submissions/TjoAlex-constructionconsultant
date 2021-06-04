@@ -229,6 +229,7 @@ This website is designed to inform the user, and give them valuable understandin
  * In the future maybe more two column sections could be implemented regarding further subjects that the company would like to let their customers to know more about.  
  * Implementing programming code that can make so that the Send us a message section could be sent directly from the site. 
  * In the future maybe more people will be deployed and more people could be presented in the Our team section. 
+ * One thing to maybe have in consideration for the future is the headers on top of the page slightly visually compete with the images, making the text hard to see. One thing to maybe implement in the future could then be to maybe add a square as background of the text to make it even more easy to see for the user. 
 
  # Technologies 
 This project was built using the following technologies
@@ -303,8 +304,9 @@ There might not be something named "Visual testing" yet what I mean by that is t
 
 ### Unfixed Bugs
 * One unfixed bug is for the contact card on the home and about page. I have tried to solve the problem with it not being completely in the center of the page yet still hasn't found a solution. And due to lack of time I now had to leav that for now to later try to fix the problem. 
-* Another issue is within my footer, the icons act pretty funny when the screen goes smaller. On large screens the icons is laid two on top and one under those two when I actually want them to lay beside each other. Still that is a problem that I would like to fix yet due to lack of time wasn't possible for now.  
-* After testing my code on Lighthouse some improvements could be done by compressing the images that are a bit too large. Yet as with the bugs above I didn't have time to do that now and had to leave that for now. Worth to mention for the future is that one can easily fix that issue by compressing the images online to make them take less space. 
+* Another issue is within my footer, the icons act pretty funny when the screen goes smaller. On large screens the icons is laid two on top and one under those two when I actually want them to lay beside each other. Still that is a problem that I would like to fix but due to lack of time wasn't possible for now.  
+* After testing my code on Lighthouse some improvements could be done by compressing the images that are a bit too large. As with the bugs above I didn't have time to do that now and had to leave that for now. Worth to mention for the future is that one can fix that issue by compressing the images to make them take less space. 
+* After letting my code be reviewed by some members of slack I was told that the contact image and info in about page wasn't centered. Something I been aware of especially with the contact card section, unfortunately I haven't found a solution for that and had to leave that issue for now. 
 
 # Deployment 
 The project was made with the help of Github and Gitpod. This by creating a repository on Github to then make the code on Gitpod development workspace, that in return meant that every time i made changes to my code or added something I had to push my code to Github so that the code then was saved on the local repository. Note that before pushing my code I made sure to add git commit messages in the terminal so that I always can know what I have done in my code. 
