@@ -91,7 +91,7 @@ The main vision and purpous behind the site is to inform more people about the s
 I want my users as easily as possible to get knowledge and understanding about a construction consultant more so the company's own construction consultant and find interest and inspiration to start their own building project by imagine the company as their guide in that process and feel safe with that.
 
 # Structure
-This project is a multi page website. This to provide large amount of information by dividing that into sections and pages, making sure the information won't be too overwhelming, messy and hard to understand as well as it makes it a lot easier to find the information one might be looking for. That because the pages won't need to be too long and you can quickly find what you was looking for by using the navigation bar and following the headings that helsp the user find even more easily on the site. As a user you will find 3 different pages one for introduction and first presentation known as home page, one for the companys services and vision and one for the contact infromation. As a first experience the user will find a big header with the company name clearly dislpayed, By either scrolling down or pressing the menu options on top right of the site, the user can de find mor einformation. By scrolling down in the first visit information about almost everything in the company will be provided, this in a short description guiding the user to either visit the about and contact page to know more. The pages structure are designed to keep pretty similar design, not making them too different from each other baring in minde that this then provide intuitve learning for the user.
+This project is a multi page website. This to provide large amount of information by dividing that into sections and pages, making sure the information won't be too overwhelming, messy and hard to understand as well as it makes it a lot easier to find the information one might be looking for. That because the pages won't need to be too long and you can quickly find what you was looking for by using the navigation bar and following the headings that helsp the user find even more easily on the site. As a user you will find 3 different pages one for introduction and first presentation known as home page, one for the companys services (The about page) and vision and one for the contact infromation (the contact page). As a first experience the user will find a big header with the company name clearly dislpayed, By either scrolling down or pressing the menu options on top right of the site. By scrolling down in the first visit information about almost everything in the company will be provided, this in a short description guiding the user to either visit the about and contact page to know more. The pages structure are designed to keep pretty similar design, not making them too different from each other baring in minde that this then provide intuitve learning for the user.
 
 # Wireframes 
 * Original wireframes can be found <a href="images/wireframe">here</a>
@@ -242,6 +242,10 @@ This project was built using the following technologies
 * Google fonts to have custom font specially choosen for this site known as Oswald. <a href="https://bootstrapbay.com/blog/google-web-fonts/#:~:text=Open%20sans%20is%20a%20sans%20serif%20typeface%20designed,popularity%20over%20the%20excellent%20legibility%20of%20the%20typeface.">Google fonts</a> 
 * Github for it's use of saving and publishing my code <a href="https://github.com/TjoAlex/constructionconsultant">Github</a> 
 * Gitpod for it's use of being able to create the existing code <a href="https://www.gitpod.io/">Gitpod</a> 
+* Lighthouse: Used for testing the performance and accessibillity of the site. 
+* Google Chrome Devtools: for testing the site and how responsive it was. 
+* Coolors to help finding what type of colors I should use on the site <a href="https://coolors.co/">Coolors</a> 
+
 
 # Testing
 
@@ -264,22 +268,31 @@ There might not be something named "Visual testing" yet what I mean by that is t
 
 * Testing was performed as follows: 
 1. Write my code, go to Devtools to see how it looked on different screens. 
-2. Sending live link of the website to people I know to see if it was working on their mobile     devices. 
+2. Sending live link of the website to people I know to see if it was working on their mobile devices. 
 3. Letting my mentor review my code and see so that it looked right. 
-4. Ran my HTML code trough the W3C validator making sure there wasn't any errors or warnings. I took my code trough W3C validator first via the live version that already existed and then afterwards via direkt input of my code. 
-5. Ran my CSS trough the Jigsaw validator 
+4. Took my HTML code trough the W3C validator making sure there wasn't any errors or warnings. I took my code trough W3C validator first via the live version that already existed and then afterwards via direkt input of my code. 
+5. Ran my CSS trough the Jigsaw validator trough direct input. 
 6. Using Lighthouse to see the performance of the site (knowing that some of my images make the performance less good, read more about that under Unfixed Bugs)
 
+### Results
+
+* while testing on the smallest screen on Devtools I saw that the navbar icon couldn't open. This remained the same with the live version that I sent to my friends and family. (Find my solution of the bug under the bugs section)
+* After running my HTML code trough the W3C validator my header images went too small. 
+
 ### Bugs
-Tell how you fixed haburger icon/navbar 
-Tell how you fixed header image size after it went super small. 
+
+* Responsive Navigation bar 
+ One of my bigger struggles was to fix my navigation bar so that it was fully responsive. What happened was that when visiting the site on smaller screens the navigation bar turned to a hambuer icon but i couldent click on the icon to see all the menu options. This was fixed after my mentor session, there I was told that the boostrap version I was using was a bit too old and after adding a nev link to a more new version of bootstrap the hamburger icon was then possible to press and one could finaly see all the menu options on smaller screens as well. 
+
+* Header Image 
+While adding my images to the header and creating a class for them and then putting the styling for it in the css as well as the images the images didn't want to appear. I tried different types of url links to see if I had added the wrong file, yet the images didn't want to appear. I tested changing the code in the devtools and there I could fix the problem in the css but when doing it in the real code it still didn't work. My solution then had to be that I put the code for the images in the html header section, and it was after that my images again could show up on the page. 
+
+After taking my code through the W3C validator something went wrong with my header images (The big images on top of the page). They then got a lot smaller and didn't respond to my css height. This took me a while to solve but what I did was to go to chrome Devtools and try different codes to fix the header with. It then gave me the consclusion that I had to put the height on the image in the html code instead of in the css to make the images as high as I wanted. 
 
 ### Unfixed Bugs
-Mention not fixed bugs and why not they where fixed, you have two alex 
-* contact card and 
-* icons on footer as well as maybe footer not staying on the bottom, but I couldn't find that issue. 
-* Mention the size of some images they are a bit big and should be compressed yet I didn't have time enough to fix that and had to set that aside for now. 
-* Cricle images, they are showing very bad and doesn't look sharp, annoying as it is time was my enemy and I couldn't manage to fix that issue. 
+* One unfixed bug is for the contact card on the home and about page. I have tried to solve the problem with it not being completely in the center yet still hasn't found a solution. And due to lack of time I now had to leav that for now to later try to fix the problem. 
+* Another issue is within my footer, the icons act pretty funny when the screen goes smaller. On large screens the icons is laid two on top and one under those two when I actually want them to lay beside each other. Still that is a problem that I would like to fix yet due to lack of time wasn't possible for now.  
+* After testing my code on Lighthouse some improvements could be done by compressing the images that are a bit too large. Yet as with the bugs above I didn't have time to do that now and had to leave that for now. Worth to mention for the future is that one can easily fix that issue by compressing the images online to make them take less space. 
 
 # Deployment 
 The project was made with the help of Github and Gitpod. This by creating a repository on Github to then make the code on Gitpod development workspace, that in return meant that every time i made changes to my code or added something I had to push my code to Github so that the code then was saved on the local repository. Note that before pushing my code I made sure to add git commit messages in the terminal so that I always can know what I have done in my code. 
@@ -307,23 +320,20 @@ As far as I have heard, a good developer needs to google and search a lot for an
 * README template from Code Institute and Github making it a lot more easy to understand how a README file should look and how to make it look a certain way <a href="#">Code Institute</a> & <a href="https://guides.github.com/features/mastering-markdown/">Github</a> 
 * Fonts google for the use of Oswald <a href="https://bootstrapbay.com/blog/google-web-fonts/#:~:text=Open%20sans%20is%20a%20sans%20serif%20typeface%20designed,popularity%20over%20the%20excellent%20legibility%20of%20the%20typeface.">Fonts google</a> 
 * For image banner on top of the pages used helping code from youtube video to understand how I could make a image big and stay on top <a href="https://www.youtube.com/watch?v=HAUB4CRfOr0&list=WL&index=86">Online Tutorials</a> 
-* For navigationbar used used help from code out of youtube so that I hould have a navbar that stayed on top of the page also used to get knowledge in how to create a three column section <a href="https://www.youtube.com/watch?v=9cKsq14Kfsw">Drew Ryan</a> 
+* For navigationbar used used help from code out of youtube so that I could have a navbar that stayed on top of the page also used to get knowledge in how to create a three column section <a href="https://www.youtube.com/watch?v=9cKsq14Kfsw">Drew Ryan</a> 
 * Article that helped me find design for my footer <a href="https://blog.eduonix.com/video-tutorials/web-development-tutorials/build-responsive-website-footer-using-html-bootstrap-4/">Eduonix</a> 
 * info contact form section helped me find inspiration to how I could make the contact form more interesting by adding a new container that was styled with css <a href="https://www.youtube.com/watch?v=FBAfpj91hps">Pro Web</a> 
 * Without too much knowledge in programming I used help from stackoverlow to fix my contact us code so it could send messages, worth mentioning is that stackowerlfow was also a helping place when i had to fix any error that occured in my code <a href="https://stackoverflow.com/questions/5773174/html-button-to-send-email">Stackoverflow</a>
 * Codepen is the site that helped me write the right code to create a map for the website <a href="https://codepen.io/lowhow/pen/Xmvbdm">Codepen</a>
 
 # Content 
-??
+All content had been made using a lot of different helpful sites that is listed under the credits section. I haven't copied the code directly just used the different examples as a guide for my own code. Not that under credits you will find more information about what each and every link has provided for me. Extra mention to the youtube channel <a href="https://www.youtube.com/watch?v=9cKsq14Kfsw">Drew Ryan</a> that was to huge help when creating my header and three column section. 
 
 # Media 
-* Pictures used as header and content from Unsplash, I do not own these images and they are only used for educational purpous.  
-  * A man face picture https://unsplash.com/photos/7YVZYZeITc8 taken by Juice Koleti’c
-  * pic about page https://unsplash.com/photos/ysfrLKs9cn0 taken by Kiefer Likens
-  * pic woman face https://unsplash.com/photos/IF9TK5Uy-KI taken by Jake Nackos
-  * pic construct https://unsplash.com/photos/wFso0QMuWAc by Aron Fjell
-  * pic contact https://unsplash.com/photos/xG8IQMqMITM by Aaron Burden
+* All images except for the logo (that was made by me) where taken from <a href="https://unsplash.com/">Unsplash</a>
+* Pictures used as header and content from Unsplash was borrowed for educational purpous only. The copyright therefore belongs to the brand itself.
 
   # Acknowledgements
+  I would like to acknowledge my Mentor Antonija Simic for being a much helfull support and provider of good examples for solutions of some of my struggles with my code. She made this journey for me a lot more easy by teaching me the right way to plan a website, write code and solve problems. I would also like to give a huge credit for slack that has been a huge help when getting completely stuck, especially when fixing the size of my header images and review of my finished code. 
 
 
