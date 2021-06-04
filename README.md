@@ -313,4 +313,17 @@ As far as I have heard, a good developer needs to google and search a lot for an
 * Without too much knowledge in programming I used help from stackoverlow to fix my contact us code so it could send messages, worth mentioning is that stackowerlfow was also a helping place when i had to fix any error that occured in my code <a href="https://stackoverflow.com/questions/5773174/html-button-to-send-email">Stackoverflow</a>
 * Codepen is the site that helped me write the right code to create a map for the website <a href="https://codepen.io/lowhow/pen/Xmvbdm">Codepen</a>
 
+# Content 
+??
+
+# Media 
+* Pictures used as header and content from Unsplash, I do not own these images and they are only used for educational purpous.  
+  * A man face picture https://unsplash.com/photos/7YVZYZeITc8 taken by Juice Koleti’c
+  * pic about page https://unsplash.com/photos/ysfrLKs9cn0 taken by Kiefer Likens
+  * pic woman face https://unsplash.com/photos/IF9TK5Uy-KI taken by Jake Nackos
+  * pic construct https://unsplash.com/photos/wFso0QMuWAc by Aron Fjell
+  * pic contact https://unsplash.com/photos/xG8IQMqMITM by Aaron Burden
+
+  # Acknowledgements
+
 
