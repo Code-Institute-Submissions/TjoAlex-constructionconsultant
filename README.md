@@ -346,7 +346,7 @@ All content had been made using a lot of different helpful sites that is listed 
 
 # Media 
 * All images except for the logo (that was made by me) where taken from <a href="https://unsplash.com/">Unsplash</a>
-* Pictures used as header and content from Unsplash was borrowed for educational purpous only. The copyright therefore belongs to the brand itself.
+* Pictures used as header and content from Unsplash was borrowed for educational purpose only. The copyright therefore belongs to the brand itself.
 
   # Acknowledgements
   I would like to acknowledge my Mentor Antonija Simic for being a much helfull support and provider of good examples for solutions of some of my struggles with my code. She made this journey for me a lot more easy by teaching me the right way to plan a website, write code and solve problems. I would also like to give a huge credit for slack that has been a huge help when getting completely stuck, especially when fixing the size of my header images and review of my finished code. 
