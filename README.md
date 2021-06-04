@@ -247,6 +247,7 @@ This project was built using the following technologies
 * Lighthouse: Used for testing the performance and accessibillity of the site. 
 * Google Chrome Devtools: for testing the site and how responsive it was. 
 * Coolors to help finding what type of colors I should use on the site <a href="https://coolors.co/">Coolors</a> 
+* To create wireframe used <a href="https://wireframe.cc/pro/login.php">wireframe.cc</a> 
 
 
 # Testing
