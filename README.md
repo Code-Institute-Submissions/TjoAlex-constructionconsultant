@@ -95,7 +95,8 @@ I want my users as easily as possible to get knowledge and understanding about a
 This project is a multi page website. This to provide large amount of information by dividing that into sections and pages, making sure the information won't be too overwhelming, messy and hard to understand as well as it makes it a lot easier to find the information one might be looking for. That because the pages won't need to be too long and you can quickly find what you was looking for by using the navigation bar and following the headings that helsp the user find even more easily on the site. As a user you will find 3 different pages one for introduction and first presentation known as home page, one for the companys services (The about page) and vision and one for the contact infromation (the contact page). As a first experience the user will find a big header with the company name clearly dislpayed, By either scrolling down or pressing the menu options on top right of the site. By scrolling down in the first visit information about almost everything in the company will be provided, this in a short description guiding the user to either visit the about and contact page to know more. The pages structure are designed to keep pretty similar design, not making them too different from each other baring in minde that this then provide intuitve learning for the user.
 
 # Wireframes 
-* Original wireframes can be found <a href="images/wireframe">here</a>
+* Original wireframes can be found <a href="images/wireframe/Wireframe-pages(3).pdf">Bootstrap</a>
+* Page 3 and 4 of the wireframes are representing the tablet (page 3) and mobile (page 4) devices and how the outlook look for them. 
 
 ### Changes to wireframes 
 When it came to my wireframe for the site there wasn't much to change yet offcourse it's almost impossible to be perfect therefore after talking to my mentor Antonija Simic one change was to place my icons on the "three column section" for the "home" and "about" page to the left of the sub heading to complement it more to it's main purpouse. Secondly was to make all my icons a bit smaller so that they only are seen as a function and not neccessary a image as one might otherwise have done. Secondly on the "about" wireframe we concluded that it would be more easy if the "what we offer" section was placed as three columns beside each other instead of under each other as my thought was first. This to keep the main structure and remain with the intuitive learning for the user.   
@@ -278,7 +279,12 @@ There might not be something named "Visual testing" yet what I mean by that is t
 ### Results
 
 * while testing on the smallest screen on Devtools I saw that the navbar icon couldn't open. This remained the same with the live version that I sent to my friends and family. (Find my solution of the bug under the bugs section)
-* After running my HTML code trough the W3C validator my header images went too small. 
+* Some sections was showing a bit too much to the left side of the pages when using Devtools testing smaller screens. Fixed by making the text more compressed and give it more padding. 
+* Lighthouse showed me a bit less good performance, cause of some of my images that is too big meaning taking up too much memory space I would say. (Read more under Unfixed bugs how that can be solved)
+* After running my HTML code trough the W3C validator my header images went too small. (Find my solution of the bug under the bugs section)
+* W3C html validator gave me warnings on my comments and I made sure to fix them so they didn't look like <!-----some text---> and instead looked like this <!--some text--> 
+* W3C html validator gave me wrong when I forgot to type an alt attribute for the images, fixed by adding alt attributes to all images. 
+* Jigsaw gave no errors or warnings.
 
 ### Bugs
 
