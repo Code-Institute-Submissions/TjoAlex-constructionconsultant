@@ -12,7 +12,7 @@ Construction Consultant will also be usefull for those looking for someone with 
 
 # Navigation 
  * UX 
-  * <a href="Ux Stories">Ux Stories</a>
+  * Ux Stories [UX stories](UX_Stories.md)
   * First Time Visitor Goals
   * Returning Visitor Goals
   * Frequent User Goals
