@@ -12,7 +12,7 @@ Construction Consultant will also be usefull for those looking for someone with 
 
 # Navigation 
  * UX 
-  * Ux Stories [UX stories](UX_Stories.md)
+  * UX Stories 
   * First Time Visitor Goals
   * Returning Visitor Goals
   * Frequent User Goals
@@ -25,20 +25,20 @@ Construction Consultant will also be usefull for those looking for someone with 
     * Changes to wireframes
  * Features
     * Existing features
-    * Future Features 
+    * Features Left to implement 
  * Technologies 
     * Languages
     * Libraries and online resources 
  * Testing
-  * Testing plan 
- * Implementation 
- * Results
- * Bugs 
+  * Testing plan  
+  * Results
+  * Bugs 
+  * Unfixed Bugs
  * Deployment
  * Credits
  * Content 
  * Media 
- *
+ * Acknowledgements
 
  # UX 
  The end user of this site/project can be whoever interested in knowing more about the process of building buildings in Sweden and might find it useful to have someone that has the knowledge to follow along in such a project, making sure everything works well and doesn’t go wrong. The end user of this project/site will want to find clear description of the item listed:
@@ -52,7 +52,7 @@ Construction Consultant will also be usefull for those looking for someone with 
 
 The end goal of the project is to give the user knowledge and excitement over buildings and their process as well as how the company itself provides a secure way for their potential customers projects to end with a good result.  
 
- ## Ux Stories
+ ### Ux Stories
 * As a user I want to learn more about what a consulting service provides.
 * As a user I want to get inspired to start a constrcution project.
 * As a user I want to see who is working with the company. 
@@ -283,7 +283,7 @@ There might not be something named "Visual testing" yet what I mean by that is t
 * Some sections was showing a bit too much to the left side of the pages when using Devtools testing smaller screens. Fixed by making the text more compressed and give it more padding. 
 * Lighthouse showed me a bit less good performance, cause of some of my images that is too big meaning taking up too much memory space I would say. (Read more under Unfixed bugs how that can be solved)
 * After running my HTML code trough the W3C validator my header images went too small. (Find my solution of the bug under the bugs section)
-* W3C html validator gave me warnings on my comments and I made sure to fix them so they didn't look like <!-----some text---> and instead looked like this <!--some text--> 
+* W3C html validator gave me warnings on my comments and I made sure to fix them so they didn't look like messy and after standard structure.  
 * W3C html validator gave me wrong when I forgot to type an alt attribute for the images, fixed by adding alt attributes to all images. 
 * Jigsaw gave no errors or warnings.
 
