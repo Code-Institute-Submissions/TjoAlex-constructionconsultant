@@ -1,10 +1,9 @@
-
-html, body
-{
- height: 100%;
- width: 100%;
- font-family: 'Oswald', sans-serif;
- color: #222;
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Oswald', sans-serif;
+  color: #222;
 }
 
 body {
@@ -38,18 +37,18 @@ article {
   text-transform: uppercase;
 }
 
-.mynav a{
+.mynav a {
   color: #474e5d;
 }
 
 .mynav a:hover {
   border-bottom: 2px solid #DBA748;
-  
+
 }
 
 .active a {
   border-bottom: 2px solid #DBA748;
- 
+
 }
 
 #nohover {
@@ -68,6 +67,10 @@ article {
   background-position: center center;
 }
 
+.display-2 {
+  font-size: 3.5rem;
+}
+
 /*-----Column section------*/
 .padding {
   padding-top: 2em;
@@ -83,7 +86,9 @@ article {
 
 /*----Contact card--------*/
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
@@ -98,6 +103,7 @@ article {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
 }
+
 /*----Footer--------*/
 
 .about-section {
@@ -141,7 +147,7 @@ article {
   color: #191E20;
 }
 
-.social a{
+.social a {
   font-size: 2.5em;
   padding: 3rem;
 }
@@ -167,12 +173,12 @@ article {
 
 i.fab.fa-twitter-square,
 i.fa-facebook,
-i.fab.fa-instagram{
+i.fab.fa-instagram {
   background-color: #2c292f;
 }
 
 /*------Map-----*/
-.embed-responsive-100x400px{
+.embed-responsive-100x400px {
   padding-bottom: 400px;
 }
 
@@ -202,19 +208,19 @@ i.fab.fa-instagram{
 
 .padding-icon {
   padding-top: 0.5em;
-  padding-bottom: 0.5em; 
+  padding-bottom: 0.5em;
 }
 
 .fa-phone {
-  color:#fff;
+  color: #fff;
 }
 
 .fa-envelope {
-  color:#fff;
+  color: #fff;
 }
 
 .fa-map-marker-alt {
-  color:#fff;
+  color: #fff;
 }
 
 i {
